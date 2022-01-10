@@ -3,10 +3,10 @@
 - Fundador de [ColCoding](https://col-coding.github.io) y CEO de [Styerr Network](https://styerr.net)
 
 <div>
-    <a href="">
+    <a href="https://github.com/GalassoX">
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=galassox&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     </a>
-    <a href="">
+    <a href="https://github.com/GalassoX">
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galassox&theme=dark" />
     </a>
 </div>
