@@ -7,7 +7,7 @@
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=galassox&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     </a>
     <a href="https://github.com/GalassoX">
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galassox&theme=dark" />
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galassox&theme=dark" />
     </a>
 </div>
 <br>
