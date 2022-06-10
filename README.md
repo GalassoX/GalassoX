@@ -1,7 +1,5 @@
 ### Hola, soy Rafael y bienvenido a mi perfil!
 
-- Fundador de [ColCoding](https://col-coding.github.io) y CEO de [Styerr Network](https://styerr.net)
-
 <div>
     <a href="https://github.com/GalassoX">
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=galassox&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -13,7 +11,6 @@
 <br>
 <div style="display: inline_block">
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" />
-    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" />
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" />
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" />
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" />
